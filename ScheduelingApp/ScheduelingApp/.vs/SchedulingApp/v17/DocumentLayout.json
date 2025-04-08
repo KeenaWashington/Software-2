@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LabUser\\source\\repos\\ScheduelingApp\\ScheduelingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7D9E4F-95DF-4DA4-BFF0-9B6BB8B668D7}|SchedulingApp\\SchedulingApp.csproj|c:\\users\\labuser\\source\\repos\\scheduelingapp\\scheduelingapp\\schedulingapp\\updateappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7D9E4F-95DF-4DA4-BFF0-9B6BB8B668D7}|SchedulingApp\\SchedulingApp.csproj|solutionrelative:schedulingapp\\updateappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7D9E4F-95DF-4DA4-BFF0-9B6BB8B668D7}|SchedulingApp\\SchedulingApp.csproj|c:\\users\\labuser\\source\\repos\\scheduelingapp\\scheduelingapp\\schedulingapp\\updateappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F7D9E4F-95DF-4DA4-BFF0-9B6BB8B668D7}|SchedulingApp\\SchedulingApp.csproj|solutionrelative:schedulingapp\\updateappointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7D9E4F-95DF-4DA4-BFF0-9B6BB8B668D7}|SchedulingApp\\SchedulingApp.csproj|c:\\users\\labuser\\source\\repos\\scheduelingapp\\scheduelingapp\\schedulingapp\\appointmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F7D9E4F-95DF-4DA4-BFF0-9B6BB8B668D7}|SchedulingApp\\SchedulingApp.csproj|solutionrelative:schedulingapp\\appointmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LabUser\\source\\repos\\ScheduelingApp\\ScheduelingApp\\SchedulingApp\\AppointmentsForm.cs",
+              "RelativeDocumentMoniker": "SchedulingApp\\AppointmentsForm.cs",
+              "ToolTip": "C:\\Users\\LabUser\\source\\repos\\ScheduelingApp\\ScheduelingApp\\SchedulingApp\\AppointmentsForm.cs [Design]",
+              "RelativeToolTip": "SchedulingApp\\AppointmentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:44:11.98Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateAppointmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\LabUser\\source\\repos\\ScheduelingApp\\ScheduelingApp\\SchedulingApp\\UpdateAppointmentForm.cs",
+              "RelativeDocumentMoniker": "SchedulingApp\\UpdateAppointmentForm.cs",
+              "ToolTip": "C:\\Users\\LabUser\\source\\repos\\ScheduelingApp\\ScheduelingApp\\SchedulingApp\\UpdateAppointmentForm.cs",
+              "RelativeToolTip": "SchedulingApp\\UpdateAppointmentForm.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:39:59.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateAppointmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LabUser\\source\\repos\\ScheduelingApp\\ScheduelingApp\\SchedulingApp\\UpdateAppointmentForm.cs",
+              "RelativeDocumentMoniker": "SchedulingApp\\UpdateAppointmentForm.cs",
+              "ToolTip": "C:\\Users\\LabUser\\source\\repos\\ScheduelingApp\\ScheduelingApp\\SchedulingApp\\UpdateAppointmentForm.cs [Design]",
+              "RelativeToolTip": "SchedulingApp\\UpdateAppointmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:39:56.123Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
